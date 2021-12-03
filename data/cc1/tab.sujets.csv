@@ -1,0 +1,4 @@
+code,place,year.exo,year.std,taxons,habitat,traitement,var.cont_name,var.cont_val,var.cont_unite,temp_val,temp_unite,zones1,zones2,zones3,zones4,zones5,zones6,abun.moy,sp1,sp2,sp3,sp4,sp5,sp6,sp7,sp8
+2022_01,france,2022,1985,poissons,maritime,peche,salinite,38,g/L,14.2,°C,a,b,c,d,e,f,80,k,l,m,n,o,p,q,r
+2022_02,france,2022,2012,plantes,garrigue,feu,ph du sol,8,pH,12,°C,a,b,c,d,e,f,10,k,l,m,n,o,p,q,r
+2022_03,france,2022,2001,insectes,mare,pollution,nitrate,15,mg/L,6,°C,a,b,c,d,e,f,52,k,l,m,n,o,p,q,r
